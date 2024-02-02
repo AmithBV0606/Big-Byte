@@ -1,5 +1,5 @@
-# Big-Byte
-Author - Amith B V
+# Big-Byte <br>
+Author - Amith B V <br>
 A Simple Big Byte website built using HTML5 and a little bit of CSS.
 Big Byte is a fast food restaurant chain present in multiple locations within Bengaluru.
 
